@@ -1,0 +1,14 @@
+
+.cart-widget {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    font-size: 24px;
+    margin-right: 10px; 
+    color: #333; 
+    transition: color 0.3s ease-in-out; 
+}
+
+.cart-widget:hover {
+    color: #e74c3c;
+}
